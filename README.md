@@ -32,6 +32,13 @@ This application is made for festival goers, event chasers and all sorts of part
 
 - User Stories
 
+    - Zac the party goer would like to have it play music when it starts up.
+
+    - Darryl the festival goer needs the application to store all his favourite parties in one place.
+
+    - Samantha the event geek, would like there to be ratings and comments so that users can share their experiences and recommendations for other events.
+
+
 - Wireframes for multiple standard screen sizes, created using industry standard software
 
 - Screenshots of your Trello board demonstrating use throughout the initial stages of the project
