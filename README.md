@@ -38,6 +38,8 @@ This application is made for festival goers, event chasers and all sorts of part
 
     - Samantha the event geek, would like there to be ratings and comments so that users can share their experiences and recommendations for other events.
 
+    - Daniel the festival goer would like to get notified via email when tickets come on sale so he gets the cheaper "earl bird" tickets. 
+
 
 - Wireframes for multiple standard screen sizes, created using industry standard software
 
